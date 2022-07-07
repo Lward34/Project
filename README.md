@@ -8,5 +8,6 @@ The major high-level requirements conducted for this scientific calculator app a
 •	Displays the values on-screen when the user presses the main buttons.
 •	Handle the user’s invalid entries or possible errors.
 •	Performs all the calculations and gives correct results.
+
 We inspire to implement primary and standard elements of functionality, including:
 •	Develop four conversion units: Imperial and Metric, Temperature (Celsius/ Fahrenheit), and Date/Years conversions.

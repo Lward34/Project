@@ -1,4 +1,3 @@
-
 Overview of Project 
 
 The group aims to develop a scientific calculator app capable of mathematical computations and metric/time conversion operations. The project’s purpose is to provide a high-end and accessible application for Androids that can be utilized for educational and related STEM purposes.  

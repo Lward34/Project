@@ -10,3 +10,4 @@ The major high-level requirements conducted for this scientific calculator app a
 
 We inspire to implement primary and standard elements of functionality, including:
 •	Develop four conversion units: Imperial and Metric, Temperature (Celsius/ Fahrenheit), and Date/Years conversions.
+![JQLPROJ](https://user-images.githubusercontent.com/79439802/177677313-0f00f770-8d7e-4585-a4f4-5eefaca1a996.PNG)

@@ -7,6 +7,8 @@ Overview of Project
 
 The group aims to develop a scientific calculator app capable of mathematical computations and metric/time conversion operations. The project’s purpose is to provide a high-end and accessible application for Androids that can be utilized for educational and related STEM purposes.  
 Project Scope Statement
+
+
 The major high-level requirements conducted for this scientific calculator app are:
 
 •	The calculator can be installed and launched on Android devices.
@@ -23,4 +25,6 @@ We inspire to implement primary and standard elements of functionality, includin
 
 
 ![JQLPROJ](https://user-images.githubusercontent.com/79439802/177677313-0f00f770-8d7e-4585-a4f4-5eefaca1a996.PNG)
+
+Download App: https://drive.google.com/file/d/1t2Ee5IlWplllNCkcqypcj65EF9RvPo0Q/view?usp=sharing
 

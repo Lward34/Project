@@ -1,5 +1,5 @@
 
-FINAL REPORT: JQL SCIENTIFIC CALCULATOR
+#FINAL REPORT: JQL SCIENTIFIC CALCULATOR
 TEAM 3: Lilian Ward, Jared King, and Quentin Stewart.
 
 Overview of Project 
